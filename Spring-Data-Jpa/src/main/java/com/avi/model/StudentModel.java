@@ -4,5 +4,6 @@ public class StudentModel {
 	
 	int roll;
 	int no;
+	int pp;
 
 }
